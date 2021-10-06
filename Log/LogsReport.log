@@ -1,0 +1,118 @@
+****Driver Initialized****
+****URL Opened****
+****Login_form Opened****
+****Submitting the form****
+****Successsfully submitted
+****Driver Initialized****
+****URL Opened****
+****Login_form Opened****
+****Submitting the form****
+****Successsfully submitted
+2021-10-05 12:16:19,911 :INFO :<module> :****Driver Initialized****
+2021-10-05 12:16:21,944 :INFO :<module> :****URL Opened****
+2021-10-05 12:16:23,830 :INFO :<module> :****Login_form Opened****
+2021-10-05 12:16:27,117 :INFO :<module> :****Submitting the form****
+2021-10-05 12:16:27,217 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 12:16:27,275 :INFO :<module> :****Driver Initialized****
+2021-10-05 12:16:28,796 :INFO :<module> :****URL Opened****
+2021-10-05 12:16:30,921 :INFO :<module> :****Login_form Opened****
+2021-10-05 12:16:34,168 :INFO :<module> :****Submitting the form****
+2021-10-05 12:16:34,250 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 12:22:55,065 :INFO :<module> :****Driver Initialized****
+2021-10-05 12:22:57,236 :INFO :<module> :****URL Opened****
+2021-10-05 12:22:59,559 :INFO :<module> :****Login_form Opened****
+2021-10-05 12:23:02,863 :INFO :<module> :****Submitting the form****
+2021-10-05 12:23:03,075 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 12:23:03,265 :INFO :<module> :****Driver Initialized****
+2021-10-05 12:23:05,134 :INFO :<module> :****URL Opened****
+2021-10-05 12:23:08,012 :INFO :<module> :****Login_form Opened****
+2021-10-05 12:23:11,326 :INFO :<module> :****Submitting the form****
+2021-10-05 12:23:11,422 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 12:26:35,035 :INFO :<module> :****Driver Initialized****
+2021-10-05 12:26:36,632 :INFO :<module> :****URL Opened****
+2021-10-05 12:26:38,897 :INFO :<module> :****Login_form Opened****
+2021-10-05 12:26:42,186 :INFO :<module> :****Submitting the form****
+2021-10-05 12:26:42,319 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 12:27:48,445 :INFO :<module> :****Driver Initialized****
+2021-10-05 12:27:49,983 :INFO :<module> :****URL Opened****
+2021-10-05 12:27:53,110 :INFO :<module> :****Login_form Opened****
+2021-10-05 12:27:56,399 :INFO :<module> :****Submitting the form****
+2021-10-05 12:27:56,699 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 12:38:44,862 :INFO :<module> :****Driver Initialized****
+2021-10-05 12:38:46,653 :INFO :<module> :****URL Opened****
+2021-10-05 12:38:50,697 :INFO :<module> :****Login_form Opened****
+2021-10-05 12:38:53,978 :INFO :<module> :****Submitting the form****
+2021-10-05 12:38:54,150 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 12:38:56,517 :INFO :<module> :****Driver Initialized****
+2021-10-05 12:39:01,137 :INFO :<module> :****URL Opened****
+2021-10-05 14:49:01,048 :INFO :<module> :****Driver Initialized****
+2021-10-05 14:49:04,650 :INFO :<module> :****URL Opened****
+2021-10-05 14:49:07,441 :INFO :<module> :****Login_form Opened****
+2021-10-05 14:49:10,784 :INFO :<module> :****Submitting the form****
+2021-10-05 14:49:11,140 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 14:49:11,584 :INFO :<module> :****Driver Initialized****
+2021-10-05 14:49:13,943 :INFO :<module> :****URL Opened****
+2021-10-05 14:52:20,505 :INFO :<module> :****Driver Initialized****
+2021-10-05 14:52:22,058 :INFO :<module> :****URL Opened****
+2021-10-05 14:52:24,983 :INFO :<module> :****Login_form Opened****
+2021-10-05 14:52:28,247 :INFO :<module> :****Submitting the form****
+2021-10-05 14:52:28,374 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 14:52:28,610 :INFO :<module> :****Driver Initialized****
+2021-10-05 14:52:30,843 :INFO :<module> :****URL Opened****
+2021-10-05 15:01:06,091 :INFO :<module> :****Driver Initialized****
+2021-10-05 15:01:07,544 :INFO :<module> :****URL Opened****
+2021-10-05 15:01:09,798 :INFO :<module> :****Login_form Opened****
+2021-10-05 15:01:13,039 :INFO :<module> :****Submitting the form****
+2021-10-05 15:01:13,178 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 15:01:13,293 :INFO :<module> :****Driver Initialized****
+2021-10-05 15:01:16,596 :INFO :<module> :****URL Opened****
+2021-10-05 15:01:17,693 :INFO :<module> :****Login_form Opened****
+2021-10-05 15:01:20,950 :INFO :<module> :****Submitting the form****
+2021-10-05 15:01:21,082 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 15:01:23,447 :INFO :<module> :****Driver Initialized****
+2021-10-05 15:01:24,935 :INFO :<module> :****URL Opened****
+2021-10-05 17:49:31,408 :INFO :<module> :****Driver Initialized****
+2021-10-05 17:49:34,520 :INFO :<module> :****URL Opened****
+2021-10-05 17:49:38,387 :INFO :<module> :****Login_form Opened****
+2021-10-05 17:49:41,656 :INFO :<module> :****Submitting the form****
+2021-10-05 17:49:41,986 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 17:49:42,257 :INFO :<module> :****Driver Initialized****
+2021-10-05 17:49:47,154 :INFO :<module> :****URL Opened****
+2021-10-05 17:49:50,696 :INFO :<module> :****Login_form Opened****
+2021-10-05 17:49:53,973 :INFO :<module> :****Submitting the form****
+2021-10-05 17:49:54,101 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 18:01:17,156 :INFO :<module> :****Driver Initialized****
+2021-10-05 18:01:19,008 :INFO :<module> :****URL Opened****
+2021-10-05 18:01:24,597 :INFO :<module> :****Login_form Opened****
+2021-10-05 18:01:27,879 :INFO :<module> :****Submitting the form****
+2021-10-05 18:01:28,098 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 18:01:28,113 :INFO :<module> :****Driver Initialized****
+2021-10-05 18:01:32,089 :INFO :<module> :****URL Opened****
+2021-10-05 18:01:41,977 :INFO :<module> :****Login_form Opened****
+2021-10-05 18:01:45,259 :INFO :<module> :****Submitting the form****
+2021-10-05 18:01:45,380 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 18:02:59,177 :INFO :<module> :****Driver Initialized****
+2021-10-05 18:03:00,810 :INFO :<module> :****URL Opened****
+2021-10-05 18:03:03,626 :INFO :<module> :****Login_form Opened****
+2021-10-05 18:03:06,888 :INFO :<module> :****Submitting the form****
+2021-10-05 18:03:07,015 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 18:06:28,789 :INFO :<module> :****Driver Initialized****
+2021-10-05 18:06:30,286 :INFO :<module> :****URL Opened****
+2021-10-05 18:06:32,643 :INFO :<module> :****Login_form Opened****
+2021-10-05 18:06:35,894 :INFO :<module> :****Submitting the form****
+2021-10-05 18:06:35,971 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 18:07:56,913 :INFO :<module> :****Driver Initialized****
+2021-10-05 18:07:58,352 :INFO :<module> :****URL Opened****
+2021-10-05 18:08:00,104 :INFO :<module> :****Login_form Opened****
+2021-10-05 18:08:03,359 :INFO :<module> :****Submitting the form****
+2021-10-05 18:08:03,469 :CRITICAL :<module> :****Successsfully submitted
+2021-10-05 18:09:29,907 :INFO :<module> :****Driver Initialized****
+2021-10-05 18:09:31,294 :INFO :<module> :****URL Opened****
+2021-10-05 18:09:33,084 :INFO :<module> :****Login_form Opened****
+2021-10-05 18:09:36,350 :INFO :<module> :****Submitting the form****
+2021-10-05 18:09:36,479 :CRITICAL :<module> :****Successsfully submitted
+2021-10-06 09:46:45,162 :INFO :<module> :****Driver Initialized****
+2021-10-06 09:47:15,784 :INFO :<module> :****URL Opened****
+2021-10-06 09:47:24,297 :INFO :<module> :****Login_form Opened****
+2021-10-06 09:47:27,860 :INFO :<module> :****Submitting the form****
+2021-10-06 09:47:28,594 :CRITICAL :<module> :****Successsfully submitted
